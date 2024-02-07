@@ -4,10 +4,10 @@ sidebar:
   order: 6
 ---
 
-### 🐱 Work is sometimes... work
+### - Work is sometimes... work
 
-### 🐱 So much that I don't know
+### - So much that I don't know
 
-### 🐱 Do I know enough?
+### - Do I know enough?
 
-### 🐱 But I'm here and I'm doing the work
+### - But I'm here and I'm doing the work

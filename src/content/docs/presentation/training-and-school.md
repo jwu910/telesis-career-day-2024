@@ -4,10 +4,10 @@ sidebar:
   order: 10
 ---
 
-### 🐱 Computer Science
+### - Computer Science
 
-### 🐱 Computer Information Systems
+### - Computer Information Systems
 
-### 🐱 Computer Engineering
+### - Computer Engineering
 
-### 🐱 Non-traditional education
+### - Non-traditional education

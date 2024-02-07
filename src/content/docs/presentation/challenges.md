@@ -4,8 +4,8 @@ sidebar:
   order: 11
 ---
 
-### 🐱 Impossible to know everything
+### - Impossible to know everything
 
-### 🐱 ADHD and time management
+### - ADHD and time management
 
-### 🐱 Communication - say what you mean
+### - Communication - say what you mean
