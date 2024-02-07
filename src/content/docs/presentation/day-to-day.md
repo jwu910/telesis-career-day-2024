@@ -10,8 +10,8 @@ sidebar:
 
 ### - Flexible working hours working from home
 
-### - Daily meetings we call Stand Ups
+### - Daily meetings we call "Stand Ups"
 
-### - Heads down time
+### - "Heads down" time
 
 ### - Cat breaks

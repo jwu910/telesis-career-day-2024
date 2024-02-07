@@ -8,7 +8,7 @@ sidebar:
 
 ### - More than one road
 
-### - Important critical skills (non technical)
+## Important critical skills (non technical)
 
 ### - Communication
 

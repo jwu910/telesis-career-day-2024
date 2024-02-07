@@ -4,18 +4,16 @@ sidebar:
   order: 8
 ---
 
-### - Full Stack
+### - Software Engineer (Full Stack/Frontend/Backend)
 
-### - Frontend
+### - Quality Assurance Engineer
 
-### - Backend
+### - Data Science Engineer
 
-### - Quality Assurance
+### - Mobile App Engineer
 
-### - Data Science
+### - DevOps Engineer
 
-### - Mobile Apps
+### - Site Reliability Engineer
 
-### - DevOps
-
-### - Site Reliability
+### - Game Developer

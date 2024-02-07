@@ -1,15 +1,13 @@
 ---
-title: "What I Do Now"
+title: "What I Do Now as a Software Engineer"
 sidebar:
   order: 0
 ---
 
-# What I do as a Software Engineer
+### - I build 🧑🏻‍💻 _Web Applications_
 
-### - I build _Web Applications_
+### - Continuous Integration (CI) ⏩ automation
 
-### - Continuous Integration (CI) automation
+### - I work with 👩🏻‍🎨 designers, 👩🏽‍💻 engineers, and 💁🏽‍♂️ project managers
 
-### - Websites like Facebook, Netflix, Starbucks
-
-### - I work with designers, engineers, and project managers
+### - I find creative solutions to problems using different coding languages

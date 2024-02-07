@@ -4,7 +4,7 @@ sidebar:
   order: 2
 ---
 
-### - Elementary, Middle, and High School in RUSD
+### - Oswalt Elementary, Rincon Middle, and Nogales High School in RUSD
 
 ### - CalPoly Pomona and studied Business and Management
 

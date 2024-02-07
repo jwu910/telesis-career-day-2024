@@ -5,6 +5,9 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [starlight({
     tableOfContents: false,
+    customCss: [
+      "./src/styles/overrides.scss",
+    ],
     pagefind: false,
     title: 'Telesis Career Day 2024',
     social: {

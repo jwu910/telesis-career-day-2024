@@ -4,9 +4,9 @@ sidebar:
   order: 6
 ---
 
-### - Sometimes work can be less than fun
+### - Work is sometimes... work
 
-### - Imposter Syndrome
+### - So much that I don't know
 
 ### - Do I know enough?
 
