@@ -6,12 +6,12 @@ sidebar:
 
 ## Fact or Fiction
 
-### - More than one road
+### 🐱 More than one road
 
 ## Important critical skills (non technical)
 
-### - Communication
+### 🐱 Communication
 
-### - Critical thinking and problem solving
+### 🐱 Critical thinking and problem solving
 
-### - Adaptability and Flexibility
+### 🐱 Adaptability and Flexibility

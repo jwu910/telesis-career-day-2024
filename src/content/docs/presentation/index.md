@@ -4,10 +4,10 @@ sidebar:
   order: 0
 ---
 
-### - I build 🧑🏻‍💻 _Web Applications_
+### 🐱 Build _Web Applications_ with a focus on the Frontend
 
-### - Continuous Integration (CI) ⏩ automation
+### 🐱 Continuous Integration (CI) automation
 
-### - I work with 👩🏻‍🎨 designers, 👩🏽‍💻 engineers, and 💁🏽‍♂️ project managers
+### 🐱 Work with designers, engineers, and project managers
 
-### - I find creative solutions to problems using different coding languages
+### 🐱 Find creative solutions to problems using different coding languages

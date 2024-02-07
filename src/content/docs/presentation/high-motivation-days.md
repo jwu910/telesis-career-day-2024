@@ -4,10 +4,10 @@ sidebar:
   order: 5
 ---
 
-### - Creative outlet
+### 🐱 Creative outlet
 
-### - Problem solving is like an art
+### 🐱 Problem solving is like an art
 
-### - No two days are the same
+### 🐱 No two days are the same
 
-### - Accomplishments I can see
+### 🐱 Accomplishments I can see
