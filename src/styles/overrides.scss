@@ -1,0 +1,27 @@
+body {
+  color: var(--sl-color-gray-2);
+}
+
+h1 {
+  color: var(--sl-color-text-accent);
+
+}
+
+.sl-markdown-content :is(h1, h2, h3, h4, h5, h6),
+.large {
+  color: var(--sl-color-gray-1);
+}
+
+.sl-markdown-content :is(h2, h3) {
+  font-weight: 400;
+}
+
+.pagination-links {
+  a:hover {
+    border-color: var(--sl-color-text-accent);
+  }
+
+  .link-title {
+    color: var(--sl-color-text-accent);
+  }
+}

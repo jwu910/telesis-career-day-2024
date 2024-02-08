@@ -6,6 +6,7 @@ export default defineConfig({
   integrations: [starlight({
     tableOfContents: false,
     customCss: [
+      "./src/styles/theme.scss",
       "./src/styles/overrides.scss",
     ],
     pagefind: false,
