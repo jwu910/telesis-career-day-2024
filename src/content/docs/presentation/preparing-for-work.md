@@ -8,6 +8,10 @@ sidebar:
 
 ### - More than one road
 
+### - Learn how to learn
+
+### - No guarantees
+
 ## Important critical skills (non technical)
 
 ### - Communication
