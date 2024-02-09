@@ -8,6 +8,8 @@ sidebar:
 
 ### - Studied Business and Management at CalPoly Pomona
 
-### - Taught myself how to code to save time on boring work
+### - Worked for a few years in a corporate office job in the food and beverage industry
 
-### - Found an internship, got hired, studied and learned more
+### - Learned at my first job that repetition was boring
+
+### - Data analysis in restaurant operations was fun
